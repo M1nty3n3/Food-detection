@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page d'accueil</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+</head>
+<body class="home">
+    <div class="button">
+        <a href="{{ url_for('about') }}"><button class="btn border-black btn-outline-primary mt-3 ms-1 text-black">About application</button></a>
+        <div class="space"></div>
+        <a href="{{ url_for('index') }}"><button class="btn border-black btn-outline-primary mt-3 me-3 text-black">Start the app</button></a>
+    </div>
+    <h1 class="display-3" style="margin-left: 250px; margin-top: 14px;">Food recognition and analyze</h1>
+</body>
+</html>

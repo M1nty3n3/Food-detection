@@ -1,0 +1,6 @@
+venv/ 
+env/ 
+Food_detection_model.h5 
+__pycache__/
+*.pyc 
+*.pyo 

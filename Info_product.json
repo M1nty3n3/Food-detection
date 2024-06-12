@@ -1,0 +1,169 @@
+{
+ "0":{"Aliment":"Ail(Allium sativum)",
+    "Catégorie": "Légume tige",
+    "Description": "L'ail est une plante de la famille des oignons et des poireaux. Très utilisé dans la cuisine Camerounaise, il est cultivé dans toutes les régions du pays. En raison de sa forte odeur et de son goût délicieux, elle reste très populaire dans la cuisine Camerounaise. Cependant, l'ail était aussi principalement utilisé pour ses propriétés médicinales.",
+    "Valeur nutritive":"L’ail est riche en glucides, en fibres et en protéines. La faible quantité utilisée en cuisine rend cet apport négligeable en alimentation humaine. Malgré tout elle reste tout de même une importante source de vitamines B6, de manganèse et de cuivre."
+    },
+
+ "1":{"Aliment":"Ananas(Ananas comosus)",
+    "Catégorie": "Fruit",
+    "Description": "Originaire d'Amérique du Sud, l'ananas est connu pour son fruit d’une trentaine de centimètres de long ayant une chair très juteuse, de couleur variant entre le blanc et le jaune selon la variété et la maturité. Il en est de même pour la couleur de son écorce composée de motifs hexagonaux, qui sont en réalité des baies fusionnées pour former un épi.",
+    "Valeur nutritive":"L’ananas est un fruit assez riche en vitamine C, qui contient aussi une quantité non négligeable de vitamine B1. Riche en sucre, il est pauvre en autres nutriments. Il est toutefois très riche en magnésium, une portion de 100 grammes couvrant presque le double des besoins quotidiens, en potassium et en sélénium. A la différence de bien des fruits, le sucre principal de l’ananas n’est pas le fructose, mais le saccharose."
+    },	
+
+ "2":{"Aliment":"Arachide(Arachis hypogaea)",
+    "Catégorie": "Graine",
+    "Description": "L’arachide est une plante originaire du Mexique, réputée pour son fruit appelée «cacahuète». Cette plante présente la particularité d’enterrer son fruit après la fécondation. Bien que ce soit une légumineuse, les caractéristiques de la cacahuète en font un oléagineux. Les arachides sont cultivées des zones tropicales aux régions tempérées et sont donc retrouvées dans pratiquement tout le Cameroun. C'est devenue l’un des aliments de base de la cuisine africaine et de la gastronomie mondiale. Au Cameroun, elle est consommée entière crue, bouillie ou grillée; en sauce après avoir été grillée et moulue; en pâte assaisonnée comme mets à part entière; ou en tartine. En pâte, elle sert d’ingrédient majeur à la confection de nombreux mets à base de légumes, dont le célèbre 'Ndolè'.",
+    "Valeur nutritive":"Aliment fortement énergétique, la cacahuète est très riche en lipides et en protéines. Elle est particulièrement riches en acides aminés tels que la lysine (rare dans les céréales) et la méthionine. Cette propriété la fait recommander en additif pour le traitement de la malnutrition. On retrouve par ailleurs des quantités importantes de magnésium, phosphore, manganèse, niacine et vitamine E."
+   },
+
+ "3":{"Aliment":"Aubergine(Solanum melongena et macrocarpon)",
+    "Catégorie": "Légume fruit",
+    "Description": "L'aubergine est un légume cultivé comme plante potagère ou maraichère. Les aubergines les plus connues ont une peau violette foncée presque noire. Il en existe aussi d'autres espèces de couleur violette, blanche, jaune, vert pâle ou striées de violet clair et blanc. Elles peuvent avoir plusieurs formes et tailles, allant des « bébés » aubergine de la taille d'une tomate-cerise aux géantes qui ressemblent presque à des melons.Il existe une variété originaire d’Afrique tropicale appelée aubergine africaine (Solanum macrocarpon), on utilise aussi bien leurs feuilles que leurs fruits. Elles sont largement recommandées pour leur faible apport calorique dans les régimes amaigrissants et chez les personnes vivant avec le diabète. Elle sert de base de confection d’une boisson à faible teneur en calorie et ayant des vertus médicinales (Mendimezong).",
+    "Valeur nutritive":""
+   },
+
+ "4":{"Aliment":"Avocat(Persea americana)",
+    "Catégorie": "Fruit",
+    "Description": "Fruit d’un arbre originaire d’Amérique centrale et du Sud, l’avocat est prisé pour sa chair tendre comme du beurre. Sa culture est répandue dans le monde, mais il prospère surtout dans les régions tropicales.Il se consomme de nombreuses façons, avec une vinaigrette, en salade de crudités (pas en salade de fruits), en purée ou comme garniture d’un sandwich. Au Cameroun, il est présent surtout dans le grand Sud et l’Adamaoua, et relativement rare au-delà du Nord.",
+    "Valeur nutritive":"Bien qu’on le connaisse surtout pour son contenu élevé en matières grasses, il faut souligner sa richesse spéciale en acides gras mono-insaturés, utiles pour la régulation du « bon » cholestérol.L'avocat est par ailleurs très riche en fibres et contient une quantité non négligeable de vitamine B9 de vitamine E, de cuivre et de magnésium."
+   },
+
+ "5":{"Aliment":"Banane douce(Musa sp)",
+    "Catégorie": "Fruit",
+    "Description": "C’est le fruit le plus produit après les agrumes, il est distribué dans le monde entier.La banane douce est un fruit issu d’une plante herbacée (contrairement à son apparence) appelée bananier. Originaire d’Asie, elle a été rapidement domestiquée et aurait été introduite au Cameroun il y a plusieurs siècles et il en est le 5e producteur mondial. Ses différentes variétés sont consommées crues dans tout le Cameroun, mais elles sont nettement plus accessibles dans le sud du pays, ou leur culture est du reste effectuée à visée industrielle dans le Littoral et le Sud-Ouest. Sa richesse en amidon lui confère la particularité d’être considéré comme un féculent très voisin de la banane plantain lorsqu’elle n’est pas mûre. Au Cameroun, elle sert d’accompagnement pour diverses sauces et légumes, elle est souvent recommandée dans le régime alimentaire des patients diabétiques du fait de sa faible teneur en sucres rapides. Bien que la variété appelée « banane-cochon » soit recommandée dans cette intention, ses propriétés nutritionnelles ne sont pas différentes de celles des autres types de banane.",
+    "Valeur nutritive":"Riche en potassium, la banane est par ailleurs une source importante de vitamine B6, de manganèse et de sélénium. Les bananes sont également une bonne source de fibres alimentaires, qui favorisent le transit intestinal. Ce fruit très digeste est le premier aliment de diversification chez les bébés. La banane est assez riche en sucres, notamment en saccharose, en glucose et en fructose."
+   },
+
+ "6":{"Aliment":"Carotte(Daucus carota)",
+    "Catégorie": "Légume racine",
+    "Description": "La carotte est un légume originaire du Moyen-Orient et de l'Asie centrale. C’est une plante caractérisée par sa racine, de couleur généralement orangée, mais pouvant varier du blanc au violet. Au Cameroun, la carotte est généralement orange et est consommée crue, râpée en salade, ou cuite en assaisonnement de sauces, de soupes ou d’autres légumes. Certains en font des gâteaux et des jus.",
+    "Valeur nutritive":"Sur le plan nutritionnel, la carotte est, comme d’autres légumes, relativement pauvre en énergie mais riche en eau et en fibres. Elle est riche en vitamine A, importante pour la vision. Elle contient également les vitamines du groupe B, le calcium, le magnésium, le potassium et le fer."
+   },
+
+ "7":{"Aliment":"Champignon(plusieurs taxons différents)",
+    "Catégorie": "Légume racine",
+    "Description": "Intermédiaires entre le règne végétal et le règne animal, les champignons appartiennent au genre Mycélium et sont souvent appelés au Cameroun « viande blanche ». En réalité, l’appellation champignon se réfère à plusieurs classes (taxons). Il en existe des espèces toxiques mais, la plupart ne le sont pas. Seules quelques espèces sont consommées, car possédant une texture, une odeur et un goût acceptable. Au Cameroun, la culture des champignons se développe et la région du Centre en exporte plusieurs tonnes chaque année.",
+    "Valeur nutritive":"Les champignons sont de très bonnes sources de fibres et contient très peu de protéines, raison pour laquelle nous les avons classés parmi les légumes."
+   },
+
+ "8":{"Aliment":"Chou vert(Brassica oleracea)",
+    "Catégorie": "Légume feuille",
+    "Description": "Le chou est une plante originaire du Sud-Ouest de l'Europe. Sa « tête » de feuilles compactes est appelée « pomme ». Dans les régions tropicales et subtropicales, la culture commerciale reste cantonnée aux climats frais des hautes terres ou aux saisons fraîches.Le chou pommé est surtout commun en Afrique de l’Est et en Egypte. Il est toutefois largement cultivé à l’Ouest du Cameroun, d’où il est transporté pour être commercialisé dans les autres régions. Le chou pommé se consomme généralement comme légume cuit. Il se mange également cru en salade, une fois coupé en lanières ou haché.",
+   "Valeur nutritive":""
+   },
+
+ "9":{"Aliment":"Concombre(Cucumis sativus)",
+    "Catégorie": "Légume fruit",
+    "Description": "Les concombres seraient originaires d’Asie. Aujourd’hui le concombre est cultivé dans le monde entier. En Afrique tropicale, on le trouve sur tous les marchés urbains. Le concombre est composé essentiellement d’eau. On utilise essentiellement le fruit immature du concombre en salade, avec ou sans peau, seul ou mélangé à d’autres légumes. Les fruits jeunes ou mûrs du concombre sont parfois cuits et consommés comme légumes.",
+    "Valeur nutritive":"Sa valeur nutritionnelle et sa teneur en vitamines et minéraux est relativement faible."
+   },
+
+"10":{"Aliment":"Gingembre(Zingiber officinale)",
+    "Catégorie": "Légume racine",
+    "Description": "'Zingiber officinale' communément appelée gingembre est originaire d’inde. Le gingembre est l’une des épices les plus utilisées au monde et un ingrédient commun dans la cuisine asiatique, africaine et indienne. Le gingembre a été célèbre pour ses propriétés médicinales pendant des siècles. La racine ou la tige souterraine de la plante de gingembre (rhizome) peut être consommée fraîche, en poudre, séchée sous forme d'épice, sous forme d'huile ou sous forme de jus.",
+    "Valeur nutritive":"Le gingembre est riche en magnésium, et contient aussi du manganèse et de la vitamine B6. On lui reconnait par ailleurs de nombreux effets bénéfiques justifiant son usage médicinal."
+   },
+
+"11":{"Aliment":"Haricot(Phaseolus vulgaris)",
+    "Catégorie": "Légume sec ou légumineuse",
+    "Description": "Le haricot commun est issu d’une plante vivace grimpante. Sa culture est largement répandue dans tous les pays du globe où il existe une période de trois à quatre mois sans gel. Il a donné naissance à une multitude de variétés(rouge, blanc,...), dont le nombre est sans cesse croissant. Il semble qu'il soit originaire d'Amérique du Sud. La culture du haricot est fortement vulgarisée, elle est surtout pratiquée dans le sud du pays où il est un élément essentiel de l’alimentation de base. Il est préalablement trempé, bouilli et assaisonné pour en relever le goût et consommé tel quel, avec des féculents ou associé à d’autres aliments (plantains ou pommes de terre pilés).",
+    "Valeur nutritive":"Comme les autres légumes secs, le haricot est particulièrement riche en protéines. Il se caractérise aussi par sa forte concentration en fibres, en fer, en phosphore, en vitamine B9, en antioxydants et en phytostérols. Le haricot rouge et le haricot noir sont nettement plus riches en antioxydants que le haricot blanc, plus riche en magnésium."
+   },
+
+"12":{"Aliment":"Kiwi",
+    "Catégorie": "Fruit",
+    "Zone de culture":"",
+    "Description": "",
+   "Valeur nutritive":""},
+
+"13":{"Aliment":"Macabo(Xanthosoma sagittifolium)",
+    "Catégorie": "Tubercule",
+    "Description": "Le macabo est une plante tropicale à tubercules originaire du bassin de l'Amazonie. C’est une plante aux larges feuilles, pouvant atteindre jusqu’à 3 mètres de hauteur en zone tropicale humide. Le macabo est essentiellement cultivé dans le grand sud Cameroun. On en ndistingue deux types : le macabo blanc et le macabo rouge. Le macabo blanc a une teneur en amidon plus élevée que le macabo rouge. Au Cameroun, les mets dérivés du macabo sont entre autres le 'Kouakoukou', le ragoût de macabo et le 'Ekwang'.",
+    "Valeur nutritive":"Les tubercules se consomment uniquement cuites car le macabo est très riche en amidon non digestible et il contient des cristaux d’oxalates de calcium, substances amères et irritantes pour le système digestif qui sont décomposées par la chaleur pendant la cuisson."
+   },
+
+"14":{"Aliment":"Manioc(Manihot esculenta C)",
+    "Catégorie": "Tubercule",
+    "Description": "Au Cameroun, le manioc est cultivé dans pratiquement toutes les régions, surtout dans le Centre, le Sud et l’Est. Il est consommé sous plusieurs formes comme le bâton de manioc (Bôbôlô, Miondo), le « Mintoumba », le couscous de manioc (Foufou) et la semoule de manioc (Tapioca). Il existe deux variétés de manioc : le manioc amer et le manioc doux. Le manioc doux peut être consommé cru sans risque pour la santé, cependant, il est fortement déconseillé de consommer du manioc amer cru car les glycosides cyanogènes qu’il contient peuvent entrainer un empoisonnement au cyanure. Ce dernier doit donc être préalablement bouilli pendant au moins 30 minutes ou trempé pendant au moins 24 heures avant la consommation.",
+    "Valeur nutritive":"Le manioc est une plante dont les racines sont des tubercules comestibles riches en amidon et en fibres alimentaires, mais pauvre en lipides et en protéines."
+   },
+
+"15":{"Aliment":"Maïs(Zea mays)",
+    "Catégorie": "Céréale",
+    "Description": "Originaire d’Amérique Centrale et du Sud, le maïs est un élément de base de l’alimentation de nombreuses populations au Cameroun. Le maïs peut être dégusté à même l’épi, bouilli, grillé, en conserve ou soufflé (pop-corn). Ses dérivés tels que la farine, la semoule, l’huile, le son, la fécule et le sirop de maïs, peuvent se retrouver dans une multitude d’aliments. De culture facile, il est retrouvé dans la plupart des régions du Cameroun, où il est consommé sous des formes très diverses. De culture facile, il est retrouvé dans la plupart des régions du Cameroun, où il est consommé sous des formes très diverses. Il est l’ingrédient principal des plats tels que le Sangha, l’Ekomba au Centre et au Sud, le Ntack à l’Ouest et le Corn Chaff au Nord-Ouest et au Sud-Ouest. Le maïs doux, une forme de maïs frais laissé en macération est consommé comme un légume.",
+    "Valeur nutritive":"Le maïs est très riche en vitamines du complexe B, mais aussi en vitamine A et en potassium. Sa composition en acides aminés particulière en fait un aliment quasi-complet. Il contient aussi une proportion non négligeable de fibres ainsi que des antioxydants, dont la zéaxanthine, spécifique au maïs."
+   },
+
+"16":{"Aliment":"Noix de palme(Elaeis guineensis)",
+    "Catégorie": "Graine",
+    "Description": "Les noix de palme sont issues du palmier à huile, originaire du golfe de Guinée. Cet arbre est largement cultivé dans les zones tropicales d’Amérique latine, d’Asie du Sud-Est et d’Afrique. Son fruit est la première source mondiale d’huile végétale, par deux moyens : la pulpe qui produit de l’huile de palme, tandis que son amande, appelée palmiste, produit de l’huile de palmiste. Le jus issu de la pulpe de noix entre dans la préparation de mets traditionnels tels le Sanga, l’Okok, le Nsugi, Banga soup et de nombreux autres",
+    "Valeur nutritive":"La pulpe de noix est composée de 50% environ de lipides, et de fibres peu digestes qui servent en général de combustible. Le palmiste contient une chair blanche très oléagineuse dont est tirée l’huile de palmiste utilisée principalement pour ses propriétés cosmétiques et en phytothérapie."
+   },
+
+"17":{"Aliment":"Œuf de poule",
+    "Catégorie": "",
+    "Description": "L’œuf de poule est considéré comme la référence des aliments protéiques. En plus d’être élevée pour sa chair, la poule est également élevée dans des conditions particulières pour la production d’œufs, qui sont recueillis et mis sur le marché non fécondés. Si l’œuf de poule est de loin le plus consommé, les œufs d’oie, de canne, de perdrix, de caille et d’autruche peuvent l’être aussi.",
+    "Valeur nutritive":"La composition nutritionnelle des œufs de poule en fait un aliment de choix. Riche en acides aminés essentiels, l’œuf est considéré comme une protéine complète. Riches en lipides digestibles, il contient de nombreuses vitamines, y compris la vitamine D qui est rare à l’état naturel. L’œuf est aussi très riche en phosphore, en potassium, en sélénium et en iode.\nLa cuisson augmente la digestibilité du blanc d’œuf, mais réduit la valeur nutritive du jaune. L’œuf est peu calorique et possède un bon effet satiétogène.\n\nLes œufs sont largement utilisés dans l’alimentation : certains les aiment durs, avec des épices, ou en salade. Ils peuvent être sautés, pochés, durs, au plat, frits, brouillés ou en omelette. Ils peuvent être utilisés pour renforcer des sauces ou des aliments sautés. Ils sont quasi indispensables en pâtisserie.\nContrairement à une idée reçue, les restrictions extrêmes de la consommation d’œufs à cause de leur richesse en cholestérol ne diminuerait pas significativement le risque de maladies cardiovasculaires."
+   },
+
+"18":{"Aliment":"Oignon(Allium cepa)",
+    "Catégorie": "Légume tige",
+    "Description": "Cultivé le plus souvent dans le Nord du Cameroun, il est surtout utilisé comme assaisonnement, bien que certains en font des sauces ou des soupes. L’oignon contient une molécule (thiopropanethial S-oxyde) qui induit la sécrétion de larmes lorsqu’on découpe le bulbe. Cette molécule est hydrosoluble et peut donc être éliminée lorsque l’oignon pelé est rincé sous l’eau.",
+    "Valeur nutritive":"L’oignon est un aromate dont il existe plusieurs variétés, certaines particulièrement riches en antioxydants, notamment l’oignon rouge. Le gout sucré de l’oignon provient non pas d’un sucre, mais d’une fibre, l’inuline."
+   },
+
+"19":{"Aliment":"Orange(Citrus sinensis)",
+    "Catégorie": "Fruit",
+    "Description": "L’orange est un agrume, fruit des orangers ou d'hybrides de ceux-ci, cultivés dans presque toutes les régions du Cameroun. Plusieurs récoltes sont possibles au cours de l’année, justifiant sa présence sur les marchés tout au long de l’année. Les oranges répandues au Cameroun sont en général plus petites, moins « orange », moins sucrées et plus riches en fibres que celles des zones tempérées. Une orange moyenne pèse environ 200 grammes, dont 150 sont comestibles.",
+    "Valeur nutritive":"L’orange est réputée pour sa teneur en vitamine C, bien que cette dernière ne soit pas la plus élevée des fruits et légumes. Elle est aussi riche en vitamine B9 et en fibres, mais peu concentrée en sucres."
+   },
+
+"20":{"Aliment":"Papaye(Carica papaya)",
+    "Catégorie": "Fruit",
+    "Description": "Originaire du sud du Mexique et d’Amérique Centrale, la papaye est aujourd'hui cultivée dans la plupart des régions tropicales. Le papayer produit ses fruits tout le long de l’année dans le grand Sud Cameroun, ce qui fait de la papaye un des fruits les plus souvent disponibles et consommés. Dans les régions assez arrosées, il est très fréquent de trouver des papayers absolument partout car ces arbres se reproduisent et s’entretiennent facilement.",
+    "Valeur nutritive":"La papaye est riche en eau (87%), en vitamine C (plus que l’orange) et en vitamine B9. Contrairement à une idée reçue, elle n’est pas le fruit le plus pauvre en potassium. On lui reconnait des vertus contre les digestions difficiles, malgré sa teneur en fibres très moyenne. Ses pépins sont riches en antioxydants tandis que sa pulpe en est pratiquement dépourvue. Plusieurs parties de la plante sont utilisées en phytothérapie."
+   },
+
+"21":{"Aliment":"Pastèque(Citrullus lanatus)",
+    "Catégorie": "Fruit",
+    "Description": " Aussi appelée melon d'eau, la pastèque est une espèce de plantes originaire d'Afrique de l'Ouest, largement cultivée pour ses gros fruits lisses, à chair rouge. Elle est présente dans presque tout le Cameroun tout le long de l’année, car sa culture est facile, dépendant toutefois de l’irrigation.",
+    "Valeur nutritive":"Composée à 92 % d'eau, la pastèque est pauvre en nutriments et en fibres. Elle est l’un des fruits les plus pauvres en potassium. Ses pépins comestibles, sont très riches en zinc."
+   },
+
+"22":{"Aliment":"Patate douce(Ipomoea batatas)",
+    "Catégorie": "Tubercule",
+    "Description": "Originaire des Amériques, la patate douce est une plante vivace cultivée pour ses tubercules comestibles. Elle est dite « douce » pour ne pas la confondre avec la pomme de terre souvent appelée « patate ». La patate douce est un féculent d’index glycémique plus bas que celui de la pomme de terre, et de ce fait plus recommandée chez les personnes atteintes du diabète sucré.",
+    "Valeur nutritive":"Elle est composée d'une chair fibreuse pouvant être de différentes couleurs (blanche, jaune, orange ou pourpre) et d'une peau épaisse également colorée (orangée ou violette). Elle est dotée d'une très grande richesse en pro-vitamine A (ou bêta-carotène), en amidon, et en vitamines du groupe B."
+   },
+
+"23":{"Aliment":"Piment(Capsicum annuum L.)",
+    "Catégorie": "Légume fruit",
+    "Description": "Le piment est une plante originaire d’Amérique Centrale ou du Sud. Sa saveur piquante est liée à une substance concentrée dans ses fruits, la capsaïcine. Utilisé comme condiment, le piment relève le goût des aliments. Il peut se manger frais sous forme de salade pour les variétés moins piquantes, ou être transformé en poudre, pâte ou sauce. Ses propriétés antiseptiques retardent également la dégradation des aliments cuisinés en zone tropicale. Sur le plan médical, la capsaïcine est utilisée comme antalgique.",
+    "Valeur nutritive":"Ses concentrations en vitamine A sont les plus élevées du règne végétal et il a 5 fois plus de vitamine C que le citron. Le piment contient aussi des quantités non négligeables de vitamine E, de magnésium et de fer."
+   },
+
+"24":{"Aliment":"Poireau(Allium porrum)",
+    "Catégorie": "Légume feuille",
+    "Description": "Le poireau est cultivé dans pratiquement toutes les régions du grand Sud Cameroun. Originaire d'Asie centrale, il appartient à la même famille que les oignons, l’ail et la ciboulette. D’une saveur très délicate et subtile, il relève un grand nombre de recettes. On reconnaît les poireaux par leurs longues tiges dont la base est blanche et le haut vert. Les poireaux frais s’utilisent pour réaliser des potages et relever les sauces. On leur reconnait aussi des vertus médicinales, notamment diurétique et régulatrices du transit digestif. L’allicine qu’ils contiennent auraient des propriétés anti-microbiennes.",
+    "Valeur nutritive":""
+   },
+
+"25":{"Aliment":"Pomme(Malus domestica)",
+    "Catégorie": "Fruit",
+    "Description": "Appelée en Afrique « pomme de France » pour la différencier de la pomme de terre, la pomme est l'un des fruits les plus répandus et les plus consommés dans le monde. Originaire d’Asie, elle prospère surtout dans les régions tempérées. Au Cameroun, quelques exploitations existent à l’Ouest et au Nord-Ouest, mais les pommes disponibles sur les marchés sont surtout d’importation.",
+    "Valeur nutritive":""
+   },
+
+"26":{"Aliment":"Pomme de terre(Solanum tuberosum)",
+     "Catégorie": "Tubercule",
+     "Description": "La pomme de terre est un légume originaire d’Amérique du Sud. Elle est considérée comme un féculent en raison de sa richesse en amidon. Sa culture relativement facile s’est fortement développée dans le monde. Au Cameroun, elle est surtout cultivée dans les régions du Nord-Ouest et de l’Ouest.",
+     "Valeur nutritive":"Elle représente une bonne source de sucres lents, de vitamine C (dans sa peau) et minéraux, notamment le potassium et le magnésium. Pour profiter au maximum de ses atouts nutritionnels, il faut opter pour un mode de cuisson sans matière grasse et la consommer avec sa peau."
+    },
+
+"27":{"Aliment":"Tomate(Solanum lycopersicum)",
+     "Catégorie": "Légume fruit",
+     "Description": "La tomate est une plante à fleurs cultivée pour ses fruits comestibles. C'est le légume le plus consommé au Cameroun, et sa culture y est largement répandue. Qualifiée de légume à des fins nutritionnelles, les fruits peuvent être consommés crus en salade, cuits comme légumes, ou utilisés comme ingrédient de divers plats (sauces ou bouillons). Une grande partie de la récolte mondiale de tomates est transformée en conserve, jus de tomates, ketchup, purée, pâte et tomates séchées.",
+     "Valeur nutritive":""
+   }
+}

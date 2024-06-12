@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <title>Upload and Send Image Path</title>
+    <style>
+        #dropZone {
+            width: 300px;
+            height: 30px;
+            border: 2px solid #000;
+            border-radius: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        #imageDiv {
+            width: 500px;
+            height: 500px;
+            border: 1px solid #000;
+            margin-bottom: 10px;
+        }
+
+        #fileInput:hover{
+        cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 style="margin-left: 30px;">Upload and Display Image</h1>
+        <button id="dropZone">Click to search and drop images here </button>
+        <input type="file" id="fileInput" style="display: none;">
+        <div id="imageDiv"></div>
+        <div class="insert" id="serverResponse"></div>
+    </div>
+    <script>
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const imageDiv = document.getElementById('imageDiv');
+        const serverResponse = document.getElementById('serverResponse');
+
+        dropZone.addEventListener('click', () => {
+            fileInput.click();
+        });
+
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dropZone.style.borderColor = '#666';
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.style.borderColor = '#000';
+        });
+
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dropZone.style.borderColor = '#000';
+            const files = e.dataTransfer.files;
+            handleFiles(files);
+        });
+
+        fileInput.addEventListener('change', (event) => {
+            const files = event.target.files;
+            handleFiles(files);
+        });
+
+        function handleFiles(files) {
+            const file = files[0];
+            if (file && file.type.match('image.*')) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const img = document.createElement('img');
+                    img.src = e.target.result;
+                    img.style.width = '100%';
+                    img.style.height = '100%';
+                    imageDiv.innerHTML = '';
+                    imageDiv.appendChild(img);
+
+                    const formData = new FormData();
+                    formData.append('file', file);
+                    fetch('http://127.0.0.1:5000/upload_image', {
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        serverResponse.textContent = data.message;
+                    })
+                    .catch(error => {
+                        serverResponse.textContent = 'Error: ' + error.message;
+                    });
+                };
+                reader.readAsDataURL(file);
+            } else {
+                alert('Invalid file type');
+            }
+        }
+    </script>
+</body>
+</html>

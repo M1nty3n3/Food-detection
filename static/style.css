@@ -1,0 +1,54 @@
+.home{
+    background-image: url("DETECTION.jpg");
+    background-repeat: no-repeat;
+}
+
+.button{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-1{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 30px;
+    border: 2px black solid;
+    width: 250px;
+    height: 30px;
+}
+
+.btn:hover{
+    background-color: lightslategray;
+    cursor: pointer;
+}
+
+.space{
+    width: 100px;
+    display: inline-block;
+}
+
+h1{
+    margin-left: 200px ;
+    font-size: 100px ;
+}
+
+.insert
+{
+    width: 780px;
+    height: 600px;
+    background-color: ghostwhite;
+    border: 1px solid #E1DFCF;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 20px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A propos de l'application</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+</head>
+<body>
+    <div class="container-fluid mt-2">
+        <p>Cette application effectue une reconnaissance des produits consommés localement (dans le territoire
+            camerounais). Pour l'instant, elle est limitée car elle ne fonctionne que pour quelques produits
+            alimentaires. Pour plus d'indication, voici la liste des aliments sur lesquels cette application
+            va fonctionner:</p>
+        <ul>
+            {% for food in data %}
+                <li>{{ data[food]['Aliment'] }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
